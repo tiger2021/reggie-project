@@ -58,5 +58,6 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: F:\img\
+  #path: F:\img\
+  path: /usr/local/img/
 
